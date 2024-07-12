@@ -5,7 +5,7 @@
     <alias>By the way</alias>
   </lexeme>
   <lexeme>
-    <grapheme>بتلكو</grapheme>
+    <grapheme>بِتِلّكُو</grapheme>
     <phoneme>ba.tiˈl.kuː</phoneme>
   </lexeme>
   <lexeme>
@@ -19,5 +19,41 @@
   <lexeme>
     <grapheme>الحالي</grapheme>
     <phoneme>al.ħaː.lij</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>باقات</grapheme>
+    <phoneme>baːˈ.qaː.t</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>الشهري</grapheme>
+    <phoneme>aʃ.ʃaˈh.rj</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Extra</grapheme>
+    <phoneme>a.iˈkst.raː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>اشترك</grapheme>
+    <phoneme>ʔiʃ.taˈ.ra.k</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>استمتع</grapheme>
+    <phoneme>ʔis.taˈm.ta.ʕ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>الحالية</grapheme>
+    <phoneme>al.ħaː.lijaː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>المنزلي</grapheme>
+    <phoneme>ʔal.man.zi.lj</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>الهملة</grapheme>
+    <phoneme>al.haːˈm.lˈa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>إقامتي </grapheme>
+    <phoneme>ʔi.qaːˈ.m.taj</phoneme>
   </lexeme>
 </lexicon>
